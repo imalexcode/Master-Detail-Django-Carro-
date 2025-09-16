@@ -20,5 +20,5 @@ Aplicação Django simples para listar e visualizar detalhes de carros.
 ### python -m venv venv
 ### venv\Scripts\activate
 ### pip install -r requirements.txt
-### git clone https://github.com/seu-usuario/meuprojeto.git
+### git clone https://github.com/imalexcode/Master-Detail-Django-Carro-.git
    
