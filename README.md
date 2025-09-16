@@ -15,12 +15,10 @@ Aplicação Django simples para listar e visualizar detalhes de carros.
 - Pillow (para upload de imagens)
 
 ## Como rodar o projeto
-
-1. Clone o repositório:
-   mkdir carros
-   cd carros
-   python -m venv venv
-   venv\Scripts\activate
-   pip install -r requirements.txt
-   git clone https://github.com/seu-usuario/meuprojeto.git
+### mkdir carros
+### cd carros
+### python -m venv venv
+### venv\Scripts\activate
+### pip install -r requirements.txt
+### git clone https://github.com/seu-usuario/meuprojeto.git
    
